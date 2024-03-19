@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+##### I am a Technical Medicine student currently doing my Masters.
+
+
+
 <!--
 **VoBaas030/VoBaas030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
